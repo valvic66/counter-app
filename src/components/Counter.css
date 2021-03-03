@@ -1,0 +1,13 @@
+.counter-wrapper {
+    display: flex;
+    border: 1px solid lightgrey;
+    width: 130px;
+    height: 34px;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  }
+  
+  .counter-field input:focus {
+    outline: none;
+  }
